@@ -1,0 +1,79 @@
+body{
+    background-image: url(../img/11.jpg);
+    background-repeat:repeat-y;
+    background-size: 100%;
+    background-color: black;
+    font-family: 'Playfair Display', serif;
+    
+};
+header{
+    margin-top: 200px;
+    font-family: 'Playfair Display', serif;
+    color: white;
+}
+.dws-menu *{ 
+    margin-top: 5px;
+    padding: 15px; 
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+    
+}
+.dws-menu ul{
+    list-style: none;
+}
+.dws-menu > ul{
+    display: flex;
+    justify-content: center;
+}
+.author{
+    position: bottom;
+    justify-content:center;
+    color: white;
+    text-align: right;
+}
+.s1{
+    color: white;
+    display: flex;
+    width: 1150px;
+    margin-left: 150px;
+    
+}
+.s2{
+    color: white;
+    display: flex;
+    width: 1150px;
+    margin-left: 150px;
+}
+.s3{
+    color: white;
+    display: flex;
+    width: 1150px;
+    margin-left: 150px;
+}
+.s4{
+    color: white;
+    display: flex;
+    width: 1150px;
+    margin-left: 150px;
+}
+.s5{
+    color: white;
+    display: flex;
+    width: 1150px;
+    margin-left: 150px;
+}
+.s6{
+    color: white;
+    display: flex;
+    width: 1150px;
+    margin-left: 150px;
+}
+.desc{
+    width: 700px;  
+    margin-left: 10px;
+    margin-right: 150px;
+}
+.img{
+    float:left;
+}

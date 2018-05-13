@@ -1,0 +1,54 @@
+body{
+    background-image: url(../img/20.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: top;
+    background-color: black;
+    font-family: 'Playfair Display', serif;
+    
+};
+header{
+    margin-top: 200px;
+    font-family: 'Playfair Display', serif;
+    color: white;
+}
+.dws-menu *{ 
+    margin-top: 5px;
+    padding: 15px; 
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+    
+}
+.dws-menu ul{
+    list-style: none;
+}
+.dws-menu > ul{
+    display: flex;
+    justify-content: center;
+}
+.author{
+    position: bottom;
+    justify-content:center;
+    color: white;
+    text-align: right;
+}
+.str1{
+    display: flex;
+    justify-content: center;    
+}
+
+.str2{
+    display: flex;
+    justify-content: center;
+    padding: 15px;
+    
+}
+.item{
+    text-decoration: none;
+    padding: 20px;
+    
+}
+.full{
+    color: white;    
+}

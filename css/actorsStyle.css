@@ -1,0 +1,48 @@
+body{
+    background-image: url(../img/20.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-color: #050608;
+    font-family: 'Playfair Display', serif;
+    
+};
+header{
+    margin-top: 200px;
+    font-family: 'Playfair Display', serif;
+    color: white;
+}
+.dws-menu *{ 
+    margin-top: 5px;
+    padding: 15px; 
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+    
+}
+.dws-menu ul{
+    list-style: none;
+}
+.dws-menu > ul{
+    display: flex;
+    justify-content: center;
+}
+.author{
+    position: bottom;
+    justify-content:center;
+    color: white;
+    text-align: right;
+}
+.full{
+    color: white;
+}
+.tlo{
+    display: flex;
+    justify-content: center;
+    color: white;
+}
+.bio{
+    padding: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    width: 400px;
+}

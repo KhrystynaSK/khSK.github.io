@@ -1,0 +1,52 @@
+body{
+    background-image: url(../img/Whitecollar.logo.png);
+    background-repeat:no-repeat;
+    background-size: 100%;
+    background-color: black;
+    font-family: 'Playfair Display', serif;
+    
+};
+header{
+    margin-top: 200px;
+    font-family: 'Playfair Display', serif;
+    color: white;
+}
+.dws-menu *{ 
+    margin-top: 5px;
+    padding: 15px; 
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+    
+}
+.dws-menu ul{
+    list-style: none;
+}
+.dws-menu > ul{
+    display: flex;
+    justify-content: center;
+}
+.author{
+    position: bottom;
+    justify-content:center;
+    color: white;
+    text-align: right;
+}
+.full{
+    margin-top: 90px;    
+}
+.s12{
+    display: flex;
+    justify-content: center; 
+    padding: 20px;
+}
+.s34{
+    display: flex;
+    justify-content: center; 
+    padding: 20px;
+}
+.s56{
+    display: flex;
+    justify-content: center;   
+    padding: 20px;
+}
